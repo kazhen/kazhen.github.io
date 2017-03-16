@@ -4,6 +4,12 @@ You can use the [editor on GitHub](https://github.com/kazhen/kazhen.github.io/ed
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+### ABOUT ME
+
+Hello! 
+
+My name is Kathleen Zhen, a current fourth year at UC Davis. I'm graduating this June with a Bachelor of Science in Computer Science and Statistics.
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
